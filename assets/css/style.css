@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css2?family=Cherry+Swash&family=Open+Sans&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background: url(../img/photo-1522518961115-07c922089dd4.jpeg) no-repeat center/cover;
+    height: 300vh;
+}
+
+.index section h1, .index section p{
+    font-family: 'Cherry Swash', cursive;
+    font-size: 2em;
+    text-align: center;
+    padding: 3%;
+}
+
+.index section h1{
+    font-size: 4rem;
+    color: #890620;
+}
+
+.index section p a{
+    color: #B6465F;
+    text-decoration: none;
+    background: #e4d8dbb4;
+    border-radius: 50px;
+}
+
+.pages p, .pages a{
+    font-family: 'Cherry Swash', cursive;
+    font-size: 1.5rem;
+    padding: 3%;
+    color: #B6465F;
+    text-decoration: none;
+}
+
+.pages section{
+    padding: 2% 10%;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.pages section h2{
+    text-align: center;
+    color: #890620;
+}
+
+.pages section article{
+    background: #e4d8dbb4;
+    border-radius: 50px;
+    font-family: 'Open Sans', sans-serif;
+    margin: 2%;
+}
+
+.pages section article p{
+    padding: 1%;
+    font-family: 'Open Sans', sans-serif;
+    color: rgb(14, 27, 37);
+}
