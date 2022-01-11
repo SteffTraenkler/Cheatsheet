@@ -46,6 +46,7 @@ body{
 .pages section h2{
     text-align: center;
     color: #890620;
+    text-decoration: underline;
 }
 
 .pages section article{
@@ -59,4 +60,8 @@ body{
     padding: 1%;
     font-family: 'Open Sans', sans-serif;
     color: rgb(14, 27, 37);
+}
+
+.pages section article p{
+    padding: 1% 4%;
 }
