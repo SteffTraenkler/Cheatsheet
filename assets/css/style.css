@@ -7,7 +7,7 @@
 }
 
 body{
-    background: url(../img/photo-1522518961115-07c922089dd4.jpeg) no-repeat center/cover;
+    background: url(../img/test_bg_cheatsheet.jpg) no-repeat center/cover;
     height: 300vh;
 }
 
@@ -20,13 +20,13 @@ body{
 
 .index section h1{
     font-size: 4rem;
-    color: #890620;
+    color: #B6465F;
 }
 
 .index section p a{
-    color: #B6465F;
+    color: #e4d8dbb4;
     text-decoration: none;
-    background: #e4d8dbb4;
+    background: #890620;
     border-radius: 50px;
 }
 
@@ -45,12 +45,12 @@ body{
 
 .pages section h2{
     text-align: center;
-    color: #890620;
+    color: #e79592b4;
     text-decoration: underline;
 }
 
 .pages section article{
-    background: #e4d8dbb4;
+    background: #909295b4;
     border-radius: 50px;
     font-family: 'Open Sans', sans-serif;
     margin: 2%;
